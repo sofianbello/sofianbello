@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bello
 - 👀 I’m interested in Design, Philosophy, Technology and all kinds of things
-- 🌱 I’m currently learning UI/UX-Design and Three.js
+- 🌱 I’m currently developing a Valheim Launcher for Quality of Life purposes
 - 💞️ I’m looking to collaborate on AI related projects
 - 📫 How to reach me safian.bello@haw-hamburg.de
 
